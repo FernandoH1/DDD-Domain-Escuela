@@ -1,25 +1,5 @@
 
 ^
-.src/main/java/salon/valueObject/Capacidad.java,e\3\e30d53d0b8859439929759ab562d32e829eb79e4
-e
-5src/main/java/estudiante/entityStudent/Direccion.java,a\5\a5788af6f6f6cc2f08fff917fc5d8c8c9d94b9c9
-b
-2src/main/java/estudiante/entityStudent/Utiles.java,f\0\f091731224acdc1c6927d2658dc7bc59257dbc85
-b
-2src/main/java/estudiante/entityStudent/Nombre.java,2\9\29590161a1b7501274db7753b160e7278966605f
-`
-0src/main/java/estudiante/entityStudent/Nota.java,4\d\4d4f43210cbb7ec92a19323a486ba71ca6178159
-a
-1src/main/java/estudiante/entityStudent/Falta.java,1\2\128f8a2d95a2dbc7bc3773db083a9896b0e1831a
-R
-"src/main/java/generic/SalonId.java,a\4\a4a39942606815ea607dbfc4d3d290830df82a3c
-Q
-!src/main/java/generic/NotaId.java,1\a\1ac59cba2536ef578077247e325ebbfdf232c2a6
-S
-#src/main/java/generic/NombreId.java,8\5\850828eb66670070c4301d6e4bc51a701627824d
-R
-"src/main/java/generic/FaltaId.java,d\1\d199c01a6a20d5c81926e6ee37fe1fdd907b3bb4
-^
 .src/main/java/domain/generic/EstudianteId.java,4\6\464c25e38b99ef3ba862476c497eaa6a3f38ef7b
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
@@ -119,8 +99,6 @@ a
 1src/main/java/domain/clase/event/ClaseCreada.java,a\8\a8cdfd346fa99623d898e679628c6384f767d7fe
 a
 1src/main/java/domain/salon/event/SalonCreado.java,4\e\4e6668f6f700d7ec799b3a60819f6bc9cff7cc93
-U
-%src/main/java/domain/salon/Salon.java,0\e\0e84729f1b25307006913d0633b60c5e911c5702
 _
 /src/main/java/domain/salon/entity/Articulo.java,4\2\429fce7a716722fa75ba7a1d43fb51b5c6141bdc
 q
@@ -143,3 +121,5 @@ e
 5src/main/java/domain/maestro/event/MaestroCreado.java,2\3\237a0aae49ac8fc0bac0e0604f610f1d56b9b41d
 Y
 )src/main/java/domain/maestro/Maestro.java,6\9\6921d20cf016d52fceea374775d8ed1d720c8c9a
+U
+%src/main/java/domain/salon/Salon.java,0\e\0e84729f1b25307006913d0633b60c5e911c5702
